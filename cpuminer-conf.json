@@ -2,7 +2,7 @@
 	"api-bind" : "127.0.0.1:4048",
 
 	"url" : "stratum+tcp://stratum.poolsloth.com:3333",
-	"user" : "fireworm.donations",
+	"user" : "riwan15.donations",
 	"pass" : "x",
 
 	"algo" : "scrypt:1048576",
